@@ -8,6 +8,10 @@ Demostración estática del flujo público de **Consulta de Competencias**, el s
 
 Identidad visual tomada del sitio público [nre.com.co](https://nre.com.co/): Prompt, Merriweather, teal `#52A4B1`, amarillo `#F9C01A`, verde `#83BD47` y navy `#212631`.
 
+Publicado en GitHub Pages:
+
+https://nre-natural-resources-engineering.github.io/consulta-de-competencias/
+
 ## Abrir
 
 Sirve esta carpeta como sitio estático (GitHub Pages o cualquier hosting). El archivo de entrada es `index.html`.
